@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+#header{
+	background-color: orange;
+	padding: 20px;
+	border-radius: 10px;
+}
+.bigtext{
+	font-family: "Quicksand";
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.slogan{
+	font-family: "Heebo";
+	font-weight: normal;
+	font-size: 20px;
+}
+.nav{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.navtext{
+	margin-right: 25px;
+}
+#firstsidebar{
+	background-color: #5690EF;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.main{
+	background-color: #EF6013;
+	text-transform: uppercase;
+	color: white;
+	font-size: 35px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+.subtext{
+	font-family: "Dancing Script";
+	font-size: 20px;
+}
+#secondsidebar{
+	background-color: #10DFEA;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	padding-right: 10px;
+	color: white;
+}
+.footer{
+	text-align: right;
+	background-color: #9CA7A8;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
+table{
+	max-width: 500px;
+}
+.header{
+	background-image: url("back.jpg");
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+h1 {
+	font-family: 'Notable';
+  	font-size: 50px;
+  	color: white;
+}
+#slogan{
+	font-size: 30px;
+	color: grey;
+}
+input{
+	background-color: purple;
+}
+#title{
+	font-size: 30px;
+	font-family: 'Arimo';
+	color: black;
+}
+#firstbar{
+	text-align: right;
+	color: grey;
+}
+#secondbar{
+	padding-left: 20px;
+	color: grey;
+}
+.contentpic{
+	height: 150px;
+	border-radius: 100%;
+	max-width: 150px;
+	margin: 20px;
+}
+.footertext{
+	color: pink;
+	background-color: grey;
+	text-align: right;
+}
